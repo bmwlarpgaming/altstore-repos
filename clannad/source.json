@@ -1,0 +1,57 @@
+{
+  "name": "Clannad",
+  "subtitle": "larp clannad of your fuckass phone",
+  "description": "larp",
+  "iconURL": "https://raw.githubusercontent.com/bmwlarpgaming/altstore-repos/main/clannad/icon.png",
+  "website": "https://github.com/bmwlarpgaming/altstore-repos",
+  "tintColor": "#F7DFB0",
+  "nsfw": false,
+  "featuredApps": [
+    "com.rlvm.clannad"
+  ],
+  "apps": [
+    {
+      "name": "Clannad",
+      "bundleIdentifier": "com.rlvm.clannad",
+      "developerName": "Natsuki Subaru",
+      "subtitle": "larp clannad of your fuckass phone",
+      "localizedDescription": "larp",
+      "iconURL": "https://raw.githubusercontent.com/bmwlarpgaming/altstore-repos/main/clannad/icon.png",
+      "tintColor": "#F7DFB0",
+      "category": "games",
+      "screenshots": [
+        {
+          "imageURL": "https://raw.githubusercontent.com/bmwlarpgaming/altstore-repos/main/clannad/screenshots/fent.jpg",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/bmwlarpgaming/altstore-repos/main/clannad/screenshots/home.jpg",
+          "width": 1080,
+          "height": 1390
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/bmwlarpgaming/altstore-repos/main/clannad/screenshots/bro.jpg",
+          "width": 1080,
+          "height": 1071
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-09-27",
+          "localizedDescription": "first release",
+          "downloadURL": "https://raw.githubusercontent.com/bmwlarpgaming/altstore-repos/main/clannad/clannad-latest.ipa",
+          "size": 6584312,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
